@@ -2,3 +2,5 @@
 Please submit the pilot activity documents here.
 
 请把先导活动文件提交到这里
+
+完成后请在list.md文件里留下你的名字
